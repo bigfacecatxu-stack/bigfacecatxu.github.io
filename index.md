@@ -16,7 +16,3 @@ title: ""
 - [《对春联》残](./inspiration/duichunlian.md)
 - [《操作系统是捧哦的女朋友》](./inspiration/girlfriendOS.md)
 
-<!-- 新加的右下角 -->
-<div style="text-align: right; margin-top: 40px; font-size: 18px; color: #333;">
-  明春相声社 张炎 徐智健
-</div>
