@@ -10,20 +10,20 @@ title:
 
 
 ## 相声本子
-- [《买卖论》全](./yjy-toilet.md)   — 待超进化修改
-- [《小兵张嘎》正活](./wochovy.md) 
-- [《树没叶之北美探宝》正活](./Trump-and-Biden-secret-story.md) 
-- [《星座漫谈》底](./MBTI.md)  — 原创者:陈雨果，李隆德
-- [《解放战争中的那一幕》](./KMT.md)  — 没整理完
-- [《黄半仙》全本](./huangbanxian.md)
+- [《买卖论》全](./benzi/yjy-toilet.md)   — 待修改
+- [《小兵张嘎》正活](./benzi/wochovy.md) 
+- [《树没叶之北美探宝》正活](./benzi/Trump-and-Biden-secret-story.md) 
+- [《星座漫谈》底](./benzi/MBTI.md)  — 原创者:陈雨果，李隆德
+- [《解放战争中的那一幕》](./benzi/KMT.md)  — 没整理完
+- [《黄半仙》全本](./benzi/huangbanxian.md)
 
 
 
 
 ## 灵感随记
-- [《四大名著》灵感随记](./sidamingzhu.md) 
-- [《对春联》残](./duichunlian.md) 
-- [《操作系统是捧哏的女朋友》](./girlfriendOS.md)
+- [《四大名著》灵感随记](./inspiration/sidamingzhu.md) 
+- [《对春联》残](./inspiration/duichunlian.md) 
+- [《操作系统是捧哏的女朋友》](./inspiration/girlfriendOS.md)
 
 
 
