@@ -15,5 +15,5 @@ title: ""
 - [《四大名著》](./inspiration/sidamingzhu.md)
 - [《对春联》](./inspiration/duichunlian.md)
 - [《操作系统是捧哦的女朋友》](./inspiration/girlfriendOS.md)
-
-1231321231
+- [《操作系统是捧哦的女朋友2》](./inspiration/girlfriendOS.md)
+- [《操作系统是捧哦的女朋友3》](./inspiration/girlfriendOS.md)
